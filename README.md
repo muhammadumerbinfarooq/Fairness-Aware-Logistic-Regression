@@ -29,7 +29,7 @@
 <p>To get started with this project, you will need to have a C++ compiler installed on your machine. Follow the steps below to set up the environment:</p>
 <ol>
     <li>Clone the repository using the following command:</li>
-    <pre><code>git clone https://github.com/muhammadumermemon/Fairness-Aware-Logistic-Regression.git</code></pre>
+    <pre><code>git clone https://github.com/muhammadumerbinfarooq/Fairness-Aware-Logistic-Regression.git</code></pre>
     <li>Navigate to the project directory:</li>
     <pre><code>cd Fairness-Aware-Logistic-Regression</code></pre>
     <li>Compile the C++ code:</li>
